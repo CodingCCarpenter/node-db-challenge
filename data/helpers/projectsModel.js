@@ -1,4 +1,4 @@
-const db = require("../dbConfig.js");
+const db = require("../dbConfig.js/index.js.js");
 
 //GET all of the projects
 const find = () => {
